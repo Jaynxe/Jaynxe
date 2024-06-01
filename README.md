@@ -13,13 +13,10 @@ Hello! I'm **Jaynxe**, a passionate student from Guangzhou. I believe in the pow
 ## Skills
 
 - **Programming Languages:** Go, JavaScript
-- **Frameworks:** Vue 3
+- **Frameworks:** Vue 3, Gin
 - **Tools:** GORM, Element Plus, SCSS
 
 ## Contact
 
 - **Blog:** [Jaynxe](http://blog.jaynxe.cn)
----
-
-> *Do more and say less* - Jaynxe
 
