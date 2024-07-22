@@ -12,11 +12,10 @@ Hello! I'm **Jaynxe**, a passionate student from Guangzhou. I believe in the pow
 
 ## Skills
 
-- **Programming Languages:** Go, JavaScript
-- **Frameworks:** Vue 3, Gin
-- **Tools:** GORM, Element Plus, SCSS
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind)](https://skillicons.dev)
 
 ## Contact
 
 - **Blog:** [Jaynxe](http://blog.jaynxe.cn)
+- **email:** 2742665196@qq.com
 
