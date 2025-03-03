@@ -1,8 +1,6 @@
 # Jaynxe 👨‍🎓 💻
-
+> Do more and say less
 ---
-
-- 🔭 **Do more and say less**
 - 📖 **Currently learning Go, Vue...**
 - 🤵 **About me:** a student in Guangzhou
 
