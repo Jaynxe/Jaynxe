@@ -11,8 +11,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,git,nodejs)](https://skillicons.dev)
 
-## 📝 About Me
-Network engineering student passionate about web development. Building projects to bridge networking knowledge with modern web technologies.
 
 ## 🌐 Connect With Me
 - **📝 Blog:** [Jaynxe's Tech Notes](http://blog.jaynxe.cn)
