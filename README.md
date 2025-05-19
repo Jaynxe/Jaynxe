@@ -14,5 +14,5 @@
 
 ## 🌐 Connect With Me
 - **📝 Blog:** [Jaynxe's Tech Notes](http://blog.jaynxe.cn)
-- **📧 Email:** [qq邮箱](mailto:2742665196@qq.com)
+- **📧 Email:** [qq](mailto:2742665196@qq.com)
 
