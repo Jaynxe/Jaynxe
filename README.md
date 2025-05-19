@@ -1,13 +1,12 @@
 # Jaynxe 👨‍🎓 💻
+● 📖 Currently learning: React,nextjs...
+● 🤵 About me: a college student majoring in network engineering in Guangzhou
 
-- 📖 **Currently learning Python,React,Nextjs...**
-- 🤵 **About me:** a student in Guangzhou
+# Skills
 
-## Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vue)](https://skillicons.dev)
-
-## Contact
+# Contact
 
 - **Blog:** [Jaynxe](http://blog.jaynxe.cn)
 - **email:** 2742665196@qq.com
