@@ -1,6 +1,6 @@
 # Jaynxe 👨‍🎓 💻
-- 📖 Currently learning: React,Nextjs...
-- 🤵 About me: a college student majoring in network engineering in Guangzhou
+- 📖 **Currently learning:** React,Nextjs...
+- 🤵 **About me:** a college student majoring in network engineering in Guangzhou
 
 # Skills
 
