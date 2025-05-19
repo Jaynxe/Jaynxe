@@ -1,11 +1,11 @@
 # Jaynxe 👨‍🎓 💻
 
-- 📖 **Currently learning Python, Vue...**
+- 📖 **Currently learning Python,React,Nextjs...**
 - 🤵 **About me:** a student in Guangzhou
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vue)](https://skillicons.dev)
 
 ## Contact
 
