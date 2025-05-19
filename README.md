@@ -6,7 +6,6 @@
 - React
 - Next.js
 - TypeScript
-- Modern Web Development
 
 ## 🛠️ Tech Stack
 
@@ -17,6 +16,5 @@ Network engineering student passionate about web development. Building projects 
 
 ## 🌐 Connect With Me
 - **📝 Blog:** [Jaynxe's Tech Notes](http://blog.jaynxe.cn)
-- **📧 Email:** [2742665196@qq.com](mailto:2742665196@qq.com)
-- **💼 GitHub:** [Consider adding your GitHub profile if public]
+- **📧 Email:** [qq邮箱](mailto:2742665196@qq.com)
 
