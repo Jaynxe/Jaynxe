@@ -5,7 +5,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs,tailwind)](https://skillicons.dev)
 
 ## Contact
 
