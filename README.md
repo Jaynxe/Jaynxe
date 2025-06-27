@@ -3,13 +3,13 @@
 **🎓 Student** | **🖥️ Network Engineering** | **📍 Guangzhou**
 
 ## 📚 Currently Learning
-- React
-- Next.js
+- vue3
+- uni-app
 - TypeScript
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,uni-app,react,nextjs,tailwind)](https://skillicons.dev)
 
 
 ## 🌐 Connect With Me
