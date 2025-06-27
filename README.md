@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,uni-app,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind)](https://skillicons.dev)
 
 
 ## 🌐 Connect With Me
